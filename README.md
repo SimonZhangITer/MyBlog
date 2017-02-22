@@ -13,6 +13,8 @@
 
 - [语句或语句块中的闭包问题实例分析](https://github.com/SimonZhangITer/MyBlog/issues/7)
 
+- [使用原生JS封装Tap事件，解决移动端300ms延迟](https://github.com/joeyguo/blog/issues/12)
+
 - [JavaScript设计模式——策略模式](https://github.com/SimonZhangITer/MyBlog/issues/6)
 
 ####| WebPack & Gulp
