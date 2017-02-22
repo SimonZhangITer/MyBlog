@@ -8,6 +8,10 @@
 
 - [使用vue2+Vuex+Router写的Demo以及遇到的一些坑和使用建议](https://github.com/SimonZhangITer/MyBlog/issues/2)
 
+####| Angular
+
+- [ng-options和ng-checked在表单中的高级运用](https://github.com/SimonZhangITer/MyBlog/issues/11)
+
 ####| Native JavaScript
 - [ES5对象的的创建及属性状态维护分析](https://github.com/SimonZhangITer/MyBlog/issues/5)
 
