@@ -10,7 +10,7 @@
 
 ####| Angular
 
-- [ng-options和ng-checked在表单中的高级运用](https://github.com/SimonZhangITer/MyBlog/issues/11)
+- [ng-options和ng-checked在表单中的高级运用](https://github.com/SimonZhangITer/MyBlog/issues/11) 
 
 ####| Native JavaScript
 - [ES5对象的的创建及属性状态维护分析](https://github.com/SimonZhangITer/MyBlog/issues/5)
