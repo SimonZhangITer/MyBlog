@@ -13,6 +13,8 @@
 - [ng-options和ng-checked在表单中的高级运用](https://github.com/SimonZhangITer/MyBlog/issues/11)
 
 ####| Native JavaScript
+- [This其实不难，通过实例全面解析JS中的This](https://github.com/SimonZhangITer/MyBlog/issues/12)
+
 - [ES5对象的的创建及属性状态维护分析](https://github.com/SimonZhangITer/MyBlog/issues/5)
 
 - [语句或语句块中的闭包问题实例分析](https://github.com/SimonZhangITer/MyBlog/issues/7)
