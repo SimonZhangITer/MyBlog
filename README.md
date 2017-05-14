@@ -24,7 +24,7 @@
 
 - [JavaScript设计模式——策略模式](https://github.com/SimonZhangITer/MyBlog/issues/6)
 
-#### | WebPack & Gulp 
+#### | WebPack & Gulp
 
 - [Gulp实现SASS、HTML的监控和自动编译以及页面的热更新](https://github.com/SimonZhangITer/MyBlog/issues/9)
 
