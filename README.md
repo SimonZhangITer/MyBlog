@@ -2,7 +2,7 @@
 
 > 关注Vue、node、webpack、native javascript以及时下最流行的框架、插件、工具
 
-#### | Vue 
+#### | Vue  
 
 - [Vue2+Echarts实现多种图表数据可视化Dashboard详解](https://github.com/SimonZhangITer/MyBlog/issues/1)
 
