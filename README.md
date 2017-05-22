@@ -28,15 +28,15 @@
 
 - [Gulp实现SASS、HTML的监控和自动编译以及页面的热更新](https://github.com/SimonZhangITer/MyBlog/issues/9)
 
-#### | 工具
+#### | Tools
 
 - [PDF转HTML神器，解决跨平台问题](https://github.com/SimonZhangITer/MyBlog/issues/8)
 
-#### | 微信
+#### | Wechat
 
 - [使用pushState实现微信“返回”按钮控制单页应用页面的无刷新跳转](https://github.com/SimonZhangITer/MyBlog/issues/4)
 
-#### | 算法
+#### | Algorithm
 - [树状层级json转换数组的尾递归写法](https://github.com/SimonZhangITer/MyBlog/issues/3)
 
 
