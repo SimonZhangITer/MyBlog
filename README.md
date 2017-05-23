@@ -8,7 +8,7 @@
 
 - [使用vue2+Vuex+Router写的Demo以及遇到的一些坑和使用建议](https://github.com/SimonZhangITer/MyBlog/issues/2)
 
-#### | Angular 
+#### | Angular
 
 - [ng-options和ng-checked在表单中的高级运用](https://github.com/SimonZhangITer/MyBlog/issues/11) 
 
