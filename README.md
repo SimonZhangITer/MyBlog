@@ -4,6 +4,8 @@
 
 #### | Vue
 
+- [TypeScript+Vue实例教程](https://github.com/SimonZhangITer/MyBlog/issues/13)
+
 - [Vue2+Echarts实现多种图表数据可视化Dashboard详解](https://github.com/SimonZhangITer/MyBlog/issues/1)
 
 - [使用vue2+Vuex+Router写的Demo以及遇到的一些坑和使用建议](https://github.com/SimonZhangITer/MyBlog/issues/2)
