@@ -4,7 +4,7 @@
 
 #### | Vue
 
-- [TypeScript+Vue实例教程](https://github.com/SimonZhangITer/MyBlog/issues/13)
+- [TypeScript+Vue实例全面教程](https://github.com/SimonZhangITer/MyBlog/issues/13)
 
 - [Vue2+Echarts实现多种图表数据可视化Dashboard详解](https://github.com/SimonZhangITer/MyBlog/issues/1)
 
