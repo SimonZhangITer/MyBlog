@@ -1,6 +1,6 @@
 # Simon's Blog 
 
-> 关注Vue、node、webpack、native javascript以及时下最流行的框架、插件、工具 
+> 关注Vue、node、Typecript、webpack、native javascript以及时下最流行的框架、插件、工具 
 
 #### | Vue
 
