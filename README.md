@@ -3,6 +3,7 @@
 > 关注Vue、node、Typecript、webpack、native javascript以及时下最流行的框架、插件、工具 
 
 #### | Vue
+- [从4个方面优化你的Vue项目](https://github.com/SimonZhangITer/MyBlog/issues/15)
 
 - [TypeScript+Vue实例全面教程](https://github.com/SimonZhangITer/MyBlog/issues/13)
 
